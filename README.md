@@ -1,4 +1,4 @@
-**OCR-Based Grading System Using Tesseract and OpenCV**
+<u>**OCR-Based Grading System Using Tesseract and OpenCV**</u>
 
 This repository contains an OCR-based grading system designed to automate the grading process of handwritten or printed answer sheets. The system combines Tesseract OCR, OpenCV, and Python to process scanned images, extract answers, and compare them with a predefined answer key.
 
