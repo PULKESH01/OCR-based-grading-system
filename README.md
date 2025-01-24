@@ -1,9 +1,9 @@
-OCR-Based Grading System Using Tesseract and OpenCV
+**OCR-Based Grading System Using Tesseract and OpenCV**
 
 This repository contains an OCR-based grading system designed to automate the grading process of handwritten or printed answer sheets. The system combines Tesseract OCR, OpenCV, and Python to process scanned images, extract answers, and compare them with a predefined answer key.
 
 
-🚀 Features
+🚀 **Features**
 
 Automated Grading: Processes answer sheets and assigns grades based on an answer key.
 
@@ -18,7 +18,7 @@ Scalability: Capable of processing large volumes of answer sheets efficiently.
 Performance Metrics: Provides accuracy, precision, recall, and F1 score to evaluate system performance.
 
 
-📁 Repository Structure
+📁 **Repository Structure**
 
 OCR-Grading-System/
 ├── data/                  # Sample datasets (answer sheets, answer keys)  
@@ -33,7 +33,7 @@ OCR-Grading-System/
 └── requirements.txt       # List of required Python libraries
 
 
-📋 Prerequisites
+📋 **Prerequisites**
 
 Python 3.8+
 
@@ -44,7 +44,7 @@ OpenCV
 Required Python libraries (install using requirements.txt)
 
 
-🔧 Installation
+🔧 **Installation**
 
 1. Clone the repository:
 
@@ -65,7 +65,7 @@ Add the Tesseract executable path to your environment variables.
 
 
 
-📖 Usage
+📖 **Usage**
 
 1. Prepare Answer Sheets: Place scanned images in the data/ folder.
 
@@ -82,7 +82,7 @@ python src/main.py --input data/answersheet.png --key data/answer_key.txt
 
 
 
-🛠️ Methodology
+🛠️ **Methodology**
 
 1. Image Preprocessing:
 
@@ -110,7 +110,7 @@ Metrics such as partial matching and spelling corrections are incorporated.
 Generates detailed reports with scores and individual question analysis.
 
 
-📊 Evaluation Metrics
+📊 **Evaluation Metrics**
 
 The system's performance is evaluated using:
 
@@ -123,7 +123,7 @@ Recall
 F1 Score
 
 
-📈 Future Improvements
+📈 **Future Improvements**
 
 Deep learning integration for handwriting recognition.
 
@@ -131,16 +131,16 @@ Support for multilingual answer sheets.
 
 Cloud-based grading platform for scalability.
 
-📜 License
+📜 **License**
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-🤝 Contributing
+🤝 **Contributing**
 
 Contributions are welcome! Feel free to fork the repository and create pull requests for improvements.
 
 
-📝 Author
+📝 **Author**
 
 Pulkesh Gautam
 
