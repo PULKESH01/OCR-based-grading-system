@@ -19,7 +19,7 @@ Performance Metrics: Provides accuracy, precision, recall, and F1 score to evalu
 
 
 📁 **Repository Structure**
-
+'''
 OCR-Grading-System/
 ├── data/                  # Sample datasets (answer sheets, answer keys)  
 ├── src/                   # Source code  
@@ -30,7 +30,7 @@ OCR-Grading-System/
 ├── models/                # Pre-trained models for handwriting recognition (optional)  
 ├── results/               # Example results and performance metrics  
 ├── README.md              # Documentation  
-└── requirements.txt       # List of required Python libraries
+└── requirements.txt       # List of required Python libraries'''
 
 
 📋 **Prerequisites**
